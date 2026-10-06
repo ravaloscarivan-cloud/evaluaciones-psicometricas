@@ -7,7 +7,8 @@ Aplicación web de cuestionarios (VALANTI, DISC y 16PF) con React + Vite en el f
 1. Instalar Node.js 20 o superior.
 2. Clonar el repositorio e instalar dependencias:
    ```
-   git clone https://github.com/ravaloscarivan-cloud/evaluaciones-psicometricas.git`n   cd evaluaciones-psicometricas
+   git clone https://github.com/ravaloscarivan-cloud/evaluaciones-psicometricas.git
+   cd evaluaciones-psicometricas
    npm install
    ```
 3. Copiar `.env.example` a `.env.local` y rellenar las credenciales (pídelas al responsable del proyecto; nunca se suben a GitHub).
